@@ -1,7 +1,7 @@
 
 ## Visualize your extracted features with t-sne
-This repository contains an implementation of a visualization technique called t-SNE (t-Distributed Stochastic Neighbor Embedding) for visualizing high-dimensional features of a group of classes. 
-The code is written in Python and makes use of the scikit-learn library for machine learning.
+This repository contains an implementation of a visualization technique called t-SNE (t-Distributed Stochastic Neighbor Embedding) for visualizing high-dimensional features of a group of classes. The code is written in Python and makes use of the scikit-learn library for machine learning.
+![Sample image](Figure1.png)
 ### Getting Started
 To get started with this project, you will need to have Python 3 and the scikit-learn library installed on your machine. You can install scikit-learn using pip:
 ```
