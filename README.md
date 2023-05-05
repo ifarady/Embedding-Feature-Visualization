@@ -11,7 +11,10 @@ Once you have scikit-learn installed, you can clone this repository to your loca
 ```
 git clone https://github.com/ifarady/initial-feature-embedding.git
 ```
-
+Run:
+```
+python initial-feature.py
+```
 ### Usage
 This repository provides a tool for visualizing the distribution of high-dimensional features in your dataset using t-SNE. By visualizing the features of your training data, you can gain insights into its structure and identify any potential challenges that may arise during classification or other deep learning tasks. It's important to note that t-SNE visualization does not guarantee successful classification, as the separation of high-dimensional feature space may not reflect the structure of your testing data. Therefore, it is important to carefully analyze the properties and conditions of your data in conjunction with the t-SNE visualization.
 
